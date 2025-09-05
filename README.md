@@ -9,3 +9,11 @@
 * git commit
 * git log
 * git diff
+## Добавление новых элементов:
+**Жирный текст**
+***Текст жирным курсивом***
+* *#include <stdio.h>*  
+*int main() {*  
+    *printf("Hello, World\n");  *
+    *return 0;*
+*}*  
